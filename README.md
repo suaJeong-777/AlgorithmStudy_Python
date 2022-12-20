@@ -7,9 +7,9 @@
 
 > PR(pull request) & Commit Message 양식
 
-## PR
+#### PR
 - 사이트명_문제번호_문제 이름
 - 사이트명_문제번호_관련 개념 이름
-## Commit Message
+#### Commit Message
 - 사이트명_문제번호_문제이름
 - 사이트명_문제번호_관련 개념 이름
